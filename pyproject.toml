@@ -1,0 +1,24 @@
+[project]
+name = "finetuning-qwen-biblioteca"
+version = "0.1.0"
+description = "Fine-tuning com LoRA de um Qwen2.5 pequeno para indicar a tela certa de um sistema de biblioteca fictício. Treina na CPU, sem placa de vídeo."
+readme = "README.md"
+authors = [{ name = "Paulo Henrique Batista de Jesus" }]
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "torch>=2.5",
+    "transformers>=4.46",
+    "peft>=0.13",
+    "accelerate>=1.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

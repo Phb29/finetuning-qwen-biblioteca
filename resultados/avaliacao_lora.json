@@ -1,0 +1,177 @@
+{
+  "modelo": "lora",
+  "perguntas": 24,
+  "acertos": 18,
+  "taxa_acerto": 75.0,
+  "tempo_segundos": 29.9,
+  "respostas": [
+    {
+      "pergunta": "Acabaram de chegar livros novos que a escola comprou.",
+      "esperada": "Cadastro de livros",
+      "resposta": "Abra a tela Cadastro de livros.",
+      "tela_citada": "Cadastro de livros",
+      "acertou": true
+    },
+    {
+      "pergunta": "O título de um livro foi cadastrado com erro de digitação.",
+      "esperada": "Cadastro de livros",
+      "resposta": "Abra a tela Cadastro de livros.",
+      "tela_citada": "Cadastro de livros",
+      "acertou": true
+    },
+    {
+      "pergunta": "Quero cadastrar a escritora Clarice Lispector no sistema.",
+      "esperada": "Cadastro de autores",
+      "resposta": "Abra a tela Cadastro de autores.",
+      "tela_citada": "Cadastro de autores",
+      "acertou": true
+    },
+    {
+      "pergunta": "Falta a data de nascimento de um autor.",
+      "esperada": "Cadastro de autores",
+      "resposta": "Abra a tela Cadastro de autores.",
+      "tela_citada": "Cadastro de autores",
+      "acertou": true
+    },
+    {
+      "pergunta": "Uma moça nova no bairro quer se tornar leitora da biblioteca.",
+      "esperada": "Cadastro de leitores",
+      "resposta": "Abra a tela Cadastro de leitores.",
+      "tela_citada": "Cadastro de leitores",
+      "acertou": true
+    },
+    {
+      "pergunta": "O leitor casou e mudou o sobrenome.",
+      "esperada": "Cadastro de leitores",
+      "resposta": "Abra a tela Cadastro de leitores.",
+      "tela_citada": "Cadastro de leitores",
+      "acertou": true
+    },
+    {
+      "pergunta": "Preciso achar o cadastro de um leitor pelo telefone.",
+      "esperada": "Consulta de leitores",
+      "resposta": "Abra a tela Consulta de leitores.",
+      "tela_citada": "Consulta de leitores",
+      "acertou": true
+    },
+    {
+      "pergunta": "Esse aluno é leitor da biblioteca?",
+      "esperada": "Consulta de leitores",
+      "resposta": "Abra a tela Consulta de leitores.",
+      "tela_citada": "Consulta de leitores",
+      "acertou": true
+    },
+    {
+      "pergunta": "Tem algum livro de receitas aqui?",
+      "esperada": "Catálogo do acervo",
+      "resposta": "Abra a tela Catálogo do acervo.",
+      "tela_citada": "Catálogo do acervo",
+      "acertou": true
+    },
+    {
+      "pergunta": "Onde fica o livro O Pequeno Príncipe?",
+      "esperada": "Catálogo do acervo",
+      "resposta": "Abra a tela Catálogo do acervo.",
+      "tela_citada": "Catálogo do acervo",
+      "acertou": true
+    },
+    {
+      "pergunta": "A Júlia quer levar dois livros emprestados.",
+      "esperada": "Empréstimo de livros",
+      "resposta": "Abra a tela Empréstimo de livros.",
+      "tela_citada": "Empréstimo de livros",
+      "acertou": true
+    },
+    {
+      "pergunta": "Vou liberar um livro para um leitor agora.",
+      "esperada": "Empréstimo de livros",
+      "resposta": "Abra a tela Empréstimo de livros.",
+      "tela_citada": "Empréstimo de livros",
+      "acertou": true
+    },
+    {
+      "pergunta": "O menino está devolvendo o gibi.",
+      "esperada": "Devolução de livros",
+      "resposta": "Abra a tela Devolução de livros.",
+      "tela_citada": "Devolução de livros",
+      "acertou": true
+    },
+    {
+      "pergunta": "Recebi de volta o livro de História.",
+      "esperada": "Devolução de livros",
+      "resposta": "Abra a tela Empréstimo de livros.",
+      "tela_citada": "Empréstimo de livros",
+      "acertou": false
+    },
+    {
+      "pergunta": "Quais livros a professora Carla está com ela agora?",
+      "esperada": "Consulta de empréstimos",
+      "resposta": "Abra a tela Consulta de empréstimos.",
+      "tela_citada": "Consulta de empréstimos",
+      "acertou": true
+    },
+    {
+      "pergunta": "Quero saber quem pegou o livro de Física.",
+      "esperada": "Consulta de empréstimos",
+      "resposta": "Abra a tela Consulta de empréstimos.",
+      "tela_citada": "Consulta de empréstimos",
+      "acertou": true
+    },
+    {
+      "pergunta": "Uma leitora quer ser avisada quando o livro voltar.",
+      "esperada": "Reserva de livros",
+      "resposta": "Abra a tela Consulta de empréstimos.",
+      "tela_citada": "Consulta de empréstimos",
+      "acertou": false
+    },
+    {
+      "pergunta": "Quero segurar o último exemplar para um professor.",
+      "esperada": "Reserva de livros",
+      "resposta": "Abra a tela Empréstimo de livros.",
+      "tela_citada": "Empréstimo de livros",
+      "acertou": false
+    },
+    {
+      "pergunta": "O leitor veio quitar o que deve.",
+      "esperada": "Cobrança de multas",
+      "resposta": "Abra a tela Devolução de livros.",
+      "tela_citada": "Devolução de livros",
+      "acertou": false
+    },
+    {
+      "pergunta": "Quanto custa a multa desse aluno?",
+      "esperada": "Cobrança de multas",
+      "resposta": "Abra a tela Cobrança de multas.",
+      "tela_citada": "Cobrança de multas",
+      "acertou": true
+    },
+    {
+      "pergunta": "Um usuário quer saber quais leitores têm livros atrasados.",
+      "esperada": "Relatório de empréstimos em atraso",
+      "resposta": "Abra a tela Consulta de empréstimos.",
+      "tela_citada": "Consulta de empréstimos",
+      "acertou": false
+    },
+    {
+      "pergunta": "Quero mandar e-mail para todo mundo que está com livro vencido.",
+      "esperada": "Relatório de empréstimos em atraso",
+      "resposta": "Abra a tela Reserva de livros.",
+      "tela_citada": "Reserva de livros",
+      "acertou": false
+    },
+    {
+      "pergunta": "Quantos livros de poesia temos comparado com os de suspense?",
+      "esperada": "Relatório de livros por categoria",
+      "resposta": "Abra a tela Relatório de livros por categoria.",
+      "tela_citada": "Relatório de livros por categoria",
+      "acertou": true
+    },
+    {
+      "pergunta": "Quero um resumo do acervo separado por tema.",
+      "esperada": "Relatório de livros por categoria",
+      "resposta": "Abra a tela Relatório de livros por categoria.",
+      "tela_citada": "Relatório de livros por categoria",
+      "acertou": true
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{"pergunta": "Quero cadastrar um livro novo.", "tela": "Cadastro de livros"}
+{"pergunta": "Chegou uma doação de livros, onde registro eles?", "tela": "Cadastro de livros"}
+{"pergunta": "Preciso corrigir o ISBN de um livro.", "tela": "Cadastro de livros"}
+{"pergunta": "Como mudo a editora de um livro já cadastrado?", "tela": "Cadastro de livros"}
+{"pergunta": "Quero dar baixa em um livro que foi danificado e descartado.", "tela": "Cadastro de livros"}
+{"pergunta": "Onde informo o número de páginas e o ano de publicação de uma obra?", "tela": "Cadastro de livros"}
+{"pergunta": "Comprei 20 exemplares novos para o acervo.", "tela": "Cadastro de livros"}
+{"pergunta": "Preciso incluir um novo autor no catálogo.", "tela": "Cadastro de autores"}
+{"pergunta": "O nome da autora está escrito errado, onde corrijo?", "tela": "Cadastro de autores"}
+{"pergunta": "Quero colocar a nacionalidade de um escritor.", "tela": "Cadastro de autores"}
+{"pergunta": "Preciso registrar o pseudônimo de um autor.", "tela": "Cadastro de autores"}
+{"pergunta": "Onde adiciono a biografia de um escritor?", "tela": "Cadastro de autores"}
+{"pergunta": "Tem dois autores duplicados, quero juntar os dois.", "tela": "Cadastro de autores"}
+{"pergunta": "Preciso alterar o endereço de um leitor.", "tela": "Cadastro de leitores"}
+{"pergunta": "Um aluno novo quer fazer a carteirinha da biblioteca.", "tela": "Cadastro de leitores"}
+{"pergunta": "O telefone de um usuário mudou.", "tela": "Cadastro de leitores"}
+{"pergunta": "Quero inscrever um novo sócio.", "tela": "Cadastro de leitores"}
+{"pergunta": "Preciso bloquear o cadastro de um leitor que se mudou da cidade.", "tela": "Cadastro de leitores"}
+{"pergunta": "Onde atualizo o e-mail de uma pessoa cadastrada?", "tela": "Cadastro de leitores"}
+{"pergunta": "Como encontro um leitor pelo CPF?", "tela": "Consulta de leitores"}
+{"pergunta": "Quero procurar um usuário pelo nome.", "tela": "Consulta de leitores"}
+{"pergunta": "Preciso ver os dados de contato de um leitor.", "tela": "Consulta de leitores"}
+{"pergunta": "Será que essa pessoa já tem cadastro aqui?", "tela": "Consulta de leitores"}
+{"pergunta": "Quero listar todos os leitores do bairro Centro.", "tela": "Consulta de leitores"}
+{"pergunta": "Qual é o número da carteirinha da Maria Souza?", "tela": "Consulta de leitores"}
+{"pergunta": "Vocês têm o livro Dom Casmurro?", "tela": "Catálogo do acervo"}
+{"pergunta": "Quero buscar livros de ficção científica.", "tela": "Catálogo do acervo"}
+{"pergunta": "Em qual estante fica o livro de Cálculo?", "tela": "Catálogo do acervo"}
+{"pergunta": "Quais livros de Machado de Assis existem na biblioteca?", "tela": "Catálogo do acervo"}
+{"pergunta": "Quero pesquisar um título pelo ISBN.", "tela": "Catálogo do acervo"}
+{"pergunta": "Tem algum livro sobre Python disponível?", "tela": "Catálogo do acervo"}
+{"pergunta": "Um leitor quer levar um livro para casa.", "tela": "Empréstimo de livros"}
+{"pergunta": "Preciso registrar a saída de um livro para um aluno.", "tela": "Empréstimo de livros"}
+{"pergunta": "Quero emprestar três livros para o mesmo leitor.", "tela": "Empréstimo de livros"}
+{"pergunta": "Onde faço um novo empréstimo?", "tela": "Empréstimo de livros"}
+{"pergunta": "O professor vai retirar uns livros hoje.", "tela": "Empréstimo de livros"}
+{"pergunta": "Quero renovar o prazo de um livro que o leitor já pegou.", "tela": "Empréstimo de livros"}
+{"pergunta": "Quero registrar a devolução de um livro.", "tela": "Devolução de livros"}
+{"pergunta": "O leitor trouxe o livro de volta.", "tela": "Devolução de livros"}
+{"pergunta": "Deixaram dois livros na caixa de devolução.", "tela": "Devolução de livros"}
+{"pergunta": "Como dou entrada no retorno de um exemplar?", "tela": "Devolução de livros"}
+{"pergunta": "A aluna veio entregar o livro que pegou semana passada.", "tela": "Devolução de livros"}
+{"pergunta": "Preciso receber os livros que voltaram hoje.", "tela": "Devolução de livros"}
+{"pergunta": "Quero ver quais livros estão emprestados.", "tela": "Consulta de empréstimos"}
+{"pergunta": "Com quem está o livro O Cortiço agora?", "tela": "Consulta de empréstimos"}
+{"pergunta": "Quantos livros o João está com ele?", "tela": "Consulta de empréstimos"}
+{"pergunta": "Quero ver o histórico de empréstimos de um leitor.", "tela": "Consulta de empréstimos"}
+{"pergunta": "Qual é a data de devolução do livro que a Ana pegou?", "tela": "Consulta de empréstimos"}
+{"pergunta": "Preciso conferir os empréstimos feitos ontem.", "tela": "Consulta de empréstimos"}
+{"pergunta": "O livro está emprestado, o leitor quer entrar na fila de espera.", "tela": "Reserva de livros"}
+{"pergunta": "Quero guardar um livro para um leitor que vem buscar amanhã.", "tela": "Reserva de livros"}
+{"pergunta": "Preciso cancelar uma reserva.", "tela": "Reserva de livros"}
+{"pergunta": "Quem está na fila para pegar Harry Potter?", "tela": "Reserva de livros"}
+{"pergunta": "Um aluno quer reservar um livro que só volta semana que vem.", "tela": "Reserva de livros"}
+{"pergunta": "Onde vejo as reservas em aberto?", "tela": "Reserva de livros"}
+{"pergunta": "O leitor quer pagar a multa por atraso.", "tela": "Cobrança de multas"}
+{"pergunta": "Quanto o Pedro está devendo para a biblioteca?", "tela": "Cobrança de multas"}
+{"pergunta": "Preciso perdoar a multa de um leitor.", "tela": "Cobrança de multas"}
+{"pergunta": "Um livro foi perdido e o leitor vai pagar por ele.", "tela": "Cobrança de multas"}
+{"pergunta": "Quero emitir o recibo de pagamento de uma multa.", "tela": "Cobrança de multas"}
+{"pergunta": "Qual o valor da taxa por dia de atraso que esse leitor deve?", "tela": "Cobrança de multas"}
+{"pergunta": "Preciso consultar os empréstimos em atraso.", "tela": "Relatório de empréstimos em atraso"}
+{"pergunta": "Quero a lista de livros que passaram do prazo.", "tela": "Relatório de empréstimos em atraso"}
+{"pergunta": "Vou ligar para quem não devolveu no prazo, preciso da lista.", "tela": "Relatório de empréstimos em atraso"}
+{"pergunta": "Quantos empréstimos estão vencidos este mês?", "tela": "Relatório de empréstimos em atraso"}
+{"pergunta": "Quero imprimir os atrasos para mandar para a diretoria.", "tela": "Relatório de empréstimos em atraso"}
+{"pergunta": "Me mostra todos os livros que deveriam ter voltado e não voltaram.", "tela": "Relatório de empréstimos em atraso"}
+{"pergunta": "Quero saber quantos livros existem por categoria.", "tela": "Relatório de livros por categoria"}
+{"pergunta": "Qual gênero tem mais livros no acervo?", "tela": "Relatório de livros por categoria"}
+{"pergunta": "Preciso de um gráfico do acervo dividido por assunto.", "tela": "Relatório de livros por categoria"}
+{"pergunta": "Quantos livros de romance nós temos ao todo?", "tela": "Relatório de livros por categoria"}
+{"pergunta": "Quero exportar a contagem de títulos por área do conhecimento.", "tela": "Relatório de livros por categoria"}
+{"pergunta": "A diretoria pediu o total de obras de cada categoria.", "tela": "Relatório de livros por categoria"}
