@@ -35,6 +35,8 @@ Com só 74 exemplos de treino, isso é esperado. O próximo passo natural seria 
 
 ## Como funciona
 
+> Quer entender o treino por baixo dos panos, com o código explicado linha por linha? Veja o PDF [docs/como-a-ia-foi-treinada.pdf](docs/como-a-ia-foi-treinada.pdf).
+
 | Conceito | O que é aqui |
 |---|---|
 | **Fine-tuning** | adaptar um modelo já treinado a uma tarefa específica |
